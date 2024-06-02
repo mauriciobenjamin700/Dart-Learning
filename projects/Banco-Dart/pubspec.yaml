@@ -1,0 +1,9 @@
+name: Banco_Dart
+description: Um projeto Dart para Simular um Sistema de Banco.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.4.2 <4.0.0'
+
+dev_dependencies:
+  test: ^1.17.0
